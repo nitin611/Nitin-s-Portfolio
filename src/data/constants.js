@@ -234,11 +234,11 @@ export const projects = [
     description:
       "ShareSpace is a collaborative platform where users can buy, sell, and showcase products, while also offering the ability for members to list and manage their own items. It provides an intuitive dashboard for users to track orders, manage profiles, and handle product listings. Designed for community-driven commerce, ShareSpace emphasizes simplicity and ease of use for both buyers and sellers.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-c845f.appspot.com/o/Screenshot%20(2).png?alt=media&token=3b8b15c5-20aa-4a23-97e7-96dbe7e854a9",
+      "https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-c845f.appspot.com/o/HomePage.png?alt=media&token=01c31826-b1d6-44ea-8fe3-d961318d27d3",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/nitin611/ShareSpace",
-    webapp: "https://github.com/nitin611/ShareSpace",
+    webapp: "https://sharespace-frontend-x2d0.onrender.com/",
     member: [
       {
         name: "Nitin kumar jha",
@@ -267,7 +267,9 @@ export const projects = [
       "MongoDb",
       "Node Js",
       "Express Js",
+      "Tailwind Css",
       "Redux",
+      "Context Api",
       "NodeMailer",
     ],
     category: "web app",
@@ -323,16 +325,16 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Paytm Clone",
+    title: "Holiday Wallet",
     date: "Nov 2024",
     description:
       "Coming up with a full stack clone of paytm project",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-c845f.appspot.com/o/Paytm.png?alt=media&token=271e68f4-65bf-419e-a78f-ab3c9171deab",
+      "https://firebasestorage.googleapis.com/v0/b/portfoliowebsite-c845f.appspot.com/o/HolidayWallet.png?alt=media&token=b27840ec-3cd0-4182-82ad-7b396557600f",
     tags: ["React Js", "Prisma", "Auth", "Node JS"],
     category: "web app",
-    github: "https://github.com/nitin611",
-    webapp: "https://github.com/nitin611",
+    github: "https://github.com/nitin611/HolidayWallet",
+    webapp: "https://unrivaled-sopapillas-ae4094.netlify.app/",
   },
   {
     id: 6,
